@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Panchangam"
+        android:enabled="true"
+        android:icon="@drawable/swastika_icon"
+        android:iconTint="@color/white"
+        android:title="పంచాంగము"/>
+    <item
+        android:id="@+id/Pandugalu"
+        android:enabled="true"
+        android:icon="@drawable/swastika_icon"
+        android:iconTint="@color/white"
+        android:title="పంచాంగము"/>
+    <item
+        android:id="@+id/Muhurthalu"
+        android:enabled="true"
+        android:icon="@drawable/swastika_icon"
+        android:iconTint="@color/white"
+        android:title="పంచాంగము"/>
+    <item
+        android:id="@+id/RashiPhalalu"
+        android:enabled="true"
+        android:icon="@drawable/swastika_icon"
+        android:iconTint="@color/white"
+        android:title="పంచాంగము"/>
+    <item
+        android:id="@+id/More"
+        android:enabled="true"
+        android:icon="@drawable/swastika_icon"
+        android:iconTint="@color/white"
+        android:title="పంచాంగము"/>
+</menu>
