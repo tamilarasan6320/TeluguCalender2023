@@ -28,7 +28,7 @@ class HomeActivity : AppCompatActivity() {
         activityHomeBinding!!.BottomNavigation.setOnItemSelectedListener {
             when (it.itemId) {
                 R.id.Panchangam -> {
-                    fm!!.beginTransaction().replace(R.id.Container,com.greymatter.telugucalender.Fragments.PandugaluFrag()).commit()
+                    fm!!.beginTransaction().replace(R.id.Container,com.greymatter.telugucalender.Fragments.panchangamFrag()).commit()
                     true
                 }
                 R.id.Pandugalu -> {
